@@ -56,7 +56,7 @@ $response=$response['choices'][0]['text'];
 <p><?php echo $response?></p>
 
 </div>
-<a href="index.html">Go back</a>
+<a href="index.php">Go back</a>
     
 </body>
 </html>
