@@ -53,10 +53,15 @@ $response=$response['choices'][0]['text'];
     
     <hr>
     
-<p><?php echo $response?></p>
+<p id="textToCopy"><?php echo $response?></p>
+        
+<button id="copyButton" value="copy" onclick="copyText()">Copy</button><br>
 
 </div>
 <a href="index.php">Go back</a>
+    
+
+<script src="copy.js"></script>
     
 </body>
 </html>
