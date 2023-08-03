@@ -143,7 +143,7 @@ h1 {
       
     </div>
     <br>
-    <a href="index.php">click here </a>
+    <a href="index.html">click here </a>
     </form>
     
 
