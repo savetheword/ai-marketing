@@ -139,7 +139,7 @@ h1 {
       <label>Type prompt</label>
       <input type="text" name="prompt" placeholder="Burger cake etc.." />
       <button type="submit">GENERATE</button>
-      <p>Want generate facebook marketing captions?</p>
+      <p>Want generate facebook marketing images?</p>
       
       </div>
       <br>
