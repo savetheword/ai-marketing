@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 use Orhanerday\OpenAi\OpenAi;
-$open_ai_key = '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';
+$open_ai_key = '';
 
 $open_ai= new OpenAi($open_ai_key);
 $prompt = $_POST['prompt'];
